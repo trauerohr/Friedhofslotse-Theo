@@ -1,4 +1,4 @@
-name: Deploy TrauerGuide to Cloudflare Pages
+name: Deploy Friedhofslotse Theo to Cloudflare Pages
 
 on:
   push:
@@ -20,4 +20,4 @@ jobs:
       - name: Confirm static site
         run: |
           test -f index.html
-          echo "Static root OK. Cloudflare Pages Git integration deploys this repo to trauerguide.trauerohr.com."
+          echo "Static root OK. Cloudflare Pages Git integration deploys this repo to friedhofslotse-theo.de."

@@ -25,7 +25,7 @@ Empfohlene Struktur im Repository:
 
 Einstellungen:
 
-- Pages-Projektname: bestehendes Git-Projekt, oeffentliche Domain `trauerguide.trauerohr.com`
+- Pages-Projektname: bestehendes Git-Projekt, oeffentliche Domain `friedhofslotse-theo.de`
 - Framework preset: `None`
 - Build command: leer lassen
 - Output directory: `/`
@@ -36,7 +36,7 @@ GitHub ist direkt mit Cloudflare Pages verbunden. Die Seite wird bei Push auf `m
 
 Oeffentliche Adresse:
 
-`trauerguide.trauerohr.com`
+`friedhofslotse-theo.de`
 
 Die alte Adresse `bestatter-kompass-stuttgart.trauerohr.com` wird nicht weiter genutzt. Es bleibt ein Cloudflare-Pages-Projekt.
 

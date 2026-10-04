@@ -1,12 +1,12 @@
-# TrauerGuide Stuttgart
+# Friedhofslotse Theo Stuttgart
 
-Statische Startversion fuer den TrauerOhr TrauerGuide Stuttgart.
+Statische Startversion fuer den TrauerOhr Friedhofslotse Theo Stuttgart.
 
 ## Dateien
 
 - `index.html` ist die Startseite mit Einleitung und Karte.
 - `regionen/index.html` ist die Regionen-Uebersicht.
-- `stuttgart/index.html` ist der bestehende TrauerGuide Stuttgart.
+- `stuttgart/index.html` ist der bestehende Friedhofslotse Theo Stuttgart.
 - `ratgeber/index.html` ist der Ratgeber als eigener Menuepunkt.
 - `.cursor/rules/trauerohr-kompass.mdc` enthaelt die Grundregeln fuer Cursor.
 - `CURSOR_START_HERE.md` ist die Startdatei fuer die Weiterarbeit in Cursor.
@@ -32,7 +32,7 @@ Einfachste stabile Variante:
 - Build command: leer lassen
 - Output directory: `/`
 - Pages-Projekt: bestehendes Git-Projekt (ein Projekt, nicht zwei)
-- Oeffentliche Adresse: `trauerguide.trauerohr.com`
+- Oeffentliche Adresse: `friedhofslotse-theo.de`
 
 ## Wichtige Pflege-Regeln
 
