@@ -3,3 +3,8 @@ Thumbs.db
 .env
 .env.*
 assets/friedhoefe/_quelle/
+
+# Lokale DNS-/Browser-Hilfsskripte (nicht ins Repo)
+_cdp_*.py
+_cf_*.json
+_ionos_*.json
