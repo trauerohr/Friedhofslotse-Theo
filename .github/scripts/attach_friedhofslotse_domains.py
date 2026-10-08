@@ -36,7 +36,7 @@ print(f"Account ID length: {len(ACCOUNT_ID)}")
 print(f"Token length: {len(TOKEN)}")
 
 print("== List Pages projects ==")
-projects = request("GET", f"/accounts/{ACCOUNT_ID}/pages/projects?per_page=50")
+projects = request("GET", f"/accounts/{ACCOUNT_ID}/pages/projects?per_page=25")
 print("success", projects.get("success"))
 print("errors", projects.get("errors"))
 for p in projects.get("result") or []:
