@@ -1,6 +1,6 @@
 # Cursor-Handoff: Stuttgart Friedhofsbilder
 
-Bitte arbeite am Projekt `bestatter-kompass-stuttgart`.
+Bitte arbeite am Projekt Friedhofslotse THEO (`friedhofslotse-theo.de`).
 
 Lies zuerst:
 
