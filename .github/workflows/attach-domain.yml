@@ -1,4 +1,4 @@
-name: Attach Friedhofslotse Theo domains
+name: Attach Friedhofslotse THEO domains
 
 on:
   workflow_dispatch:

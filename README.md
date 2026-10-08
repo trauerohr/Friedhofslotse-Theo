@@ -1,12 +1,12 @@
-# Friedhofslotse Theo Stuttgart
+# Friedhofslotse THEO Stuttgart
 
-Statische Startversion fuer den TrauerOhr Friedhofslotse Theo Stuttgart.
+Statische Startversion fuer den TrauerOhr Friedhofslotse THEO Stuttgart.
 
 ## Dateien
 
 - `index.html` ist die Startseite mit Einleitung und Karte.
 - `regionen/index.html` ist die Regionen-Uebersicht.
-- `stuttgart/index.html` ist der bestehende Friedhofslotse Theo Stuttgart.
+- `stuttgart/index.html` ist der bestehende Friedhofslotse THEO Stuttgart.
 - `ratgeber/index.html` ist der Ratgeber als eigener Menuepunkt.
 - `.cursor/rules/trauerohr-kompass.mdc` enthaelt die Grundregeln fuer Cursor.
 - `CURSOR_START_HERE.md` ist die Startdatei fuer die Weiterarbeit in Cursor.

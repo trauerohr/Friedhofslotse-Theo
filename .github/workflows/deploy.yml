@@ -1,4 +1,4 @@
-name: Deploy Friedhofslotse Theo to Cloudflare Pages
+name: Deploy Friedhofslotse THEO to Cloudflare Pages
 
 on:
   push:
