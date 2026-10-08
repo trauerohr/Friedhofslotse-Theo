@@ -1,6 +1,6 @@
 # Cursor-Masterprompt fuer TrauerOhr Kompasse
 
-Du arbeitest am TrauerOhr Bestatter-Kompass.
+Du arbeitest am TrauerOhr Friedhofslotse THEO (oeffentlich friedhofslotse-theo.de).
 
 ## Grundhaltung
 

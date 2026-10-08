@@ -38,7 +38,7 @@ Oeffentliche Adresse:
 
 `friedhofslotse-theo.de`
 
-Die alte Adresse `bestatter-kompass-stuttgart.trauerohr.com` wird nicht weiter genutzt. Es bleibt ein Cloudflare-Pages-Projekt.
+Aeltere Testadressen werden nicht weiter genutzt. Es bleibt ein Cloudflare-Pages-Projekt; oeffentlich ist nur `friedhofslotse-theo.de`.
 
 Wenn Cloudflare Pages verbunden ist:
 
